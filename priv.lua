@@ -12,7 +12,7 @@ local GoldenApeRoot = GoldenApe:WaitForChild("RootPart")
 -- Config
 local JUMP_HEIGHT = 250
 local ORBIT_RADIUS = 100
-local BASE_SPEED = 8
+local BASE_SPEED = 4
 local BOOSTED_SPEED = 20
 local PLATFORM_OFFSET = Vector3.new(0, -3, 0)
 local DEBUG_MODE = true
